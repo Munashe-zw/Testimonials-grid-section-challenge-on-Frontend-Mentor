@@ -38,8 +38,8 @@ _Mobile Preview_
 
 ### Links
 
-- Solution files: [GitHub Repository]()
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution files: [GitHub Repository](https://github.com/Munashe-zw/Testimonials-grid-section-challenge-on-Frontend-Mentor.git)
+- Solution URL: [Add solution URL here](https://munashe-zw.github.io/Testimonials-grid-section-challenge-on-Frontend-Mentor/)
 
 
 
